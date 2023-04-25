@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edgar Yungo</h1>
 <h3 align="center">I am Back-end developer in the making</h3>
-<img align="right" alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCodeJude&psig=AOvVaw2OY3XJSlFsbi18FC-onoeA&ust=1682505424840000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDCiaTrxP4CFQAAAAAdAAAAABAx" >
+<img align="right" alt="Coding" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" >
 
 <p align="left"> <a href="https://twitter.com/yungoedgar" target="blank"><img src="https://img.shields.io/twitter/follow/yungoedgar?logo=twitter&style=for-the-badge" alt="yungoedgar" /></a> </p>
 
